@@ -1,4 +1,5 @@
-### Hi there 👋, const myName = 'Nikita Berdnik';
+### Welcome to my GitHub profile;
+#### const myName = 'Nikita Berdnik';
 
 <!--
 **nikitaChandler01/nikitaChandler01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
