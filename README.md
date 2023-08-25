@@ -23,7 +23,7 @@
 - JavaScript (Entry-level)
 - Git
 - Unix Shell
-- Автоматическое тестирование 
+- Unit-testing
 ---
 ### Контакты для связи со мной:
 [`📫 berdnik.nikita01@gmail.com`](mailto:berdnik.nikita01@gmail.com)  [`✈️ tg: @sxywhtnick`]((https://t.me/Sxywhtnick)) [`💻 vk: @nekitosina01`]((https://vk.com/nekitosina01)) 
