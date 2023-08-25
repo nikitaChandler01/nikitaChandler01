@@ -21,7 +21,7 @@
 ### 🛠️ Технологический стэк:
 - HTML
 - CSS
-- JavaScript (Entry-level) https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png
+- JavaScript (Entry-level) [https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png]
 - Git
 - Unix Shell
 - Unit-testing
