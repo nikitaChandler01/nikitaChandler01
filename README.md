@@ -21,7 +21,7 @@
 ### 🛠️ Технологический стэк:
 - HTML
 - CSS
-- JavaScript (Entry-level) [https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png]
+- JavaScript (Entry-level) <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 - Git
 - Unix Shell
 - Unit-testing
