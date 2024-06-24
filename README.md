@@ -5,7 +5,6 @@
 🎓 const higherEducationEN = 'Aircraft maintenance';
 🎓 const higherEducationRU = 'Техническая эксплуатация летательных аппратов и двигателей';
 👨‍💻 let additionalEducation = 'Hexlet course: Front-end developer';
-🪶 Mea сurriculum vitae = https://cv.hexlet.io/ru/resumes/2922; // My CV
 ```
 
 ---
