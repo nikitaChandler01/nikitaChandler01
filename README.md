@@ -1,11 +1,4 @@
 # Добро пожаловать на мой GitHub профиль! #
-## Немного о себе:
-```bash
-👱 const myName = 'Nikita Berdnik / Никита Бердник';
-🎓 const higherEducationEN = 'Aircraft maintenance';
-🎓 const higherEducationRU = 'Техническая эксплуатация летательных аппратов и двигателей';
-👨‍💻 let additionalEducation = 'Hexlet course: Front-end developer';
-```
 
 ---
 ### 🛠️ Технологический стэк:
