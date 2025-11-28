@@ -62,7 +62,7 @@
 </a>
 
 **Stack:** React • GSAP • CSS3  
-➡️ [Demo](circle-spinning.vercel.app)  
+➡️ [Demo](https://circle-spinning.vercel.app)  
 ➡️ [Repository](https://github.com/nikitaChandler01/circle-spinning)
 
 ---
