@@ -49,6 +49,7 @@
 
 **Stack:** Angular • NestJS • PostgreSQL • RxJS • WebSockets  
 **Repo:**  
+➡️ [Demo](https://nb-network.vercel.app)  
 ➡️ [Frontend](https://github.com/nikitaChandler01/nb-network)  
 ➡️ [Backend](https://github.com/nikitaChandler01/nb-network-api)
 
@@ -59,7 +60,9 @@
 </a>
 
 **Stack:** React • GSAP • CSS3  
+➡️ [Demo](circle-spinning.vercel.app)
 ➡️ [Repository](https://github.com/nikitaChandler01/circle-spinning)
+
 ---
 
 ### Contacts:
