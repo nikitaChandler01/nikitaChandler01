@@ -69,6 +69,6 @@ I build fast, scalable, and user-friendly web applications. Passionate about cle
 ---
 
 ### 📫 Contacts:
-[`📧 Email`](mailto:berdnik.nikita01@gmail.com)  
+[`📧 Email: berdnik.nikita01@gmail.com`](mailto:berdnik.nikita01@gmail.com)  
 [`✈️ Telegram`](https://t.me/Sxywhtnik)  
 [`💻 VK`](https://vk.com/nekitosina01)
