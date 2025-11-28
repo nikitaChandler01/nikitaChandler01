@@ -41,18 +41,25 @@
 - Интересуюсь React Native в свободное время
 
 ---
-## 🎯 My Projects
+## 🔥 Featured Work
 
-### 🚀 **NB-Network**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<a href="https://nb-network.vercel.app">
+  <img src="https://img.shields.io/badge/NB--Network-Fullstack_Project-18181B?style=for-the-badge" />
+</a>
 
-Prototype of a social network with real-time features.
+**Stack:** Angular • NestJS • PostgreSQL • RxJS • WebSockets  
+**Repo:**  
+➡️ [Frontend](https://github.com/nikitaChandler01/nb-network)  
+➡️ [Backend](https://github.com/nikitaChandler01/nb-network-api)
 
-🔗 [Demo](https://nb-network.vercel.app) •  
-🔗 [Frontend](https://github.com/nikitaChandler01/nb-network) •  
-🔗 [Backend](https://github.com/nikitaChandler01/nb-network-api)
+---
+
+<a href="https://circle-spinning.vercel.app">
+  <img src="https://img.shields.io/badge/Circle_Spinning-Animated_Landing-18181B?style=for-the-badge" />
+</a>
+
+**Stack:** React • GSAP • CSS3  
+➡️ [Repository](https://github.com/nikitaChandler01/circle-spinning)
 ---
 
 ### Contacts:
