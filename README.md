@@ -41,30 +41,18 @@
 - Интересуюсь React Native в свободное время
 
 ---
+## 🎯 My Projects
 
-## 🌟 Featured Projects
+### 🚀 **NB-Network**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### ⭐ NB-Network (Fullstack)
-> Social network prototype using Angular + NestJS + PostgreSQL.
+Prototype of a social network with real-time features.
 
-**Tech:** Angular, NestJS, TypeORM, RxJS, WebSockets  
-**Highlights:** Real-time updates, Signals-based state, JWT auth
-
-🔗 **Demo:** https://nb-network.vercel.app  
-🔗 **Frontend:** https://github.com/nikitaChandler01/nb-network  
-🔗 **Backend:** https://github.com/nikitaChandler01/nb-network-api
-
-
----
-
-### ⭐ Circle Spinning
-> A GSAP-powered animated landing page.
-
-**Tech:** React, GSAP, CSS3  
-**Highlights:** Smooth animations, responsive layout
-
-🔗 **Demo:** https://circle-spinning.vercel.app  
-🔗 **Code:** https://github.com/nikitaChandler01/circle-spinning
+🔗 [Demo](https://nb-network.vercel.app) •  
+🔗 [Frontend](https://github.com/nikitaChandler01/nb-network) •  
+🔗 [Backend](https://github.com/nikitaChandler01/nb-network-api)
 ---
 
 ### Contacts:
