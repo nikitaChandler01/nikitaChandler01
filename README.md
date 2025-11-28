@@ -1,27 +1,27 @@
 # 👋 Hi, I'm **Nikita Berdnik**
 
 ### **Frontend Developer (React / TypeScript) | Fullstack Enthusiast (NestJS / PostgreSQL)**  
-Создаю быстрые, масштабируемые и удобные веб-приложения. Люблю чистую архитектуру, понятный UI и продуманные интерфейсы.
+I build fast, scalable, and user-friendly web applications. Passionate about clean architecture, intuitive UI, and thoughtful interface design.
 
 ---
 
 ## 🚀 **Tech Stack**
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)
+![React Router](https://img.shields.io/badge/React%20Router-20232A?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![React Query](https://img.shields.io/badge/React%20Query-20232A?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-20232A?style=for-the-badge&logo=antdesign&logoColor=0170FE)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ### **Backend**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 ---
 
@@ -35,16 +35,17 @@
 ---
 
 ## 🌟 **About Me**
-- Инициативный и самостоятельный — довожу проекты до конца  
-- Люблю обмениваться опытом и расти вместе с командой  
-- Пишу чистый и понятный код  
-- Интересуюсь React Native в свободное время
+- Proactive and independent — I always see projects through to completion  
+- Enjoy sharing knowledge and growing together with the team  
+- Write clean, readable, and maintainable code  
+- Interested in React Native in my free time  
 
 ---
+
 ## 🔥 Featured Work
 
 <a href="https://nb-network.vercel.app">
-  <img src="https://img.shields.io/badge/NB--Network-Fullstack_Project-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NB--Network-Fullstack_Project-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **Social Network Prototype**
@@ -58,7 +59,7 @@
 ---
 
 <a href="https://circle-spinning.vercel.app">
-  <img src="https://img.shields.io/badge/Circle_Spinning-Animated_Landing-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Circle_Spinning-Animated_Landing-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **Stack:** React • GSAP • CSS3  
@@ -67,5 +68,7 @@
 
 ---
 
-### Contacts:
-[`📫 berdnik.nikita01@gmail.com`](mailto:berdnik.nikita01@gmail.com)  [`✈️ tg: @sxywhtnik`]((https://t.me/Sxywhtnik)) [`💻 vk: @nekitosina01`]((https://vk.com/nekitosina01)) 
+### 📫 Contacts:
+[`📧 Email`](mailto:berdnik.nikita01@gmail.com)  
+[`✈️ Telegram`](https://t.me/Sxywhtnik)  
+[`💻 VK`](https://vk.com/nekitosina01)
