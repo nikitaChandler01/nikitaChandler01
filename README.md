@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/NB--Network-Fullstack_Project-18181B?style=for-the-badge" />
 </a>
 
+**Social Network Prototype**
+
 **Stack:** Angular • NestJS • PostgreSQL • RxJS • WebSockets  
 **Repo:**  
 ➡️ [Demo](https://nb-network.vercel.app)  
@@ -60,7 +62,7 @@
 </a>
 
 **Stack:** React • GSAP • CSS3  
-➡️ [Demo](circle-spinning.vercel.app)
+➡️ [Demo](circle-spinning.vercel.app)  
 ➡️ [Repository](https://github.com/nikitaChandler01/circle-spinning)
 
 ---
