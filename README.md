@@ -2,8 +2,21 @@
 
 ---
 ### 🛠️ Hard Skills:
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/HTML5-940a21?style=for-the-badge&labelColor=940a21) ![Static Badge](https://img.shields.io/badge/CSS3-0091ff?style=for-the-badge&logoColor=00922f&labelColor=940a21&color=0091ff) ![Static Badge](https://img.shields.io/badge/GitHub%20Actions-4fa300?style=for-the-badge&logoColor=red) ![Static Badge](https://img.shields.io/badge/Unix%20Shell%20Scripting-4700a3?style=for-the-badge&logoColor=red)
- ![Static Badge](https://img.shields.io/badge/Unit-Testing-4100c4?style=for-the-badge&logoColor=red&labelColor=ff7070&color=662f5d) ![Static Badge](https://img.shields.io/badge/REACT-1E90FF?style=for-the-badge&labelColor=1E90FF) ![Static Badge](https://img.shields.io/badge/RTK-1E90FF?style=for-the-badge&labelColor=1E90FF) ![Static Badge](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&labelColor=1E90FF)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 ### Contacts:
 [`📫 berdnik.nikita01@gmail.com`](mailto:berdnik.nikita01@gmail.com)  [`✈️ tg: @sxywhtnik`]((https://t.me/Sxywhtnik)) [`💻 vk: @nekitosina01`]((https://vk.com/nekitosina01)) 
