@@ -62,6 +62,8 @@ I build fast, scalable, and user-friendly web applications. Passionate about cle
   <img src="https://img.shields.io/badge/Circle_Spinning-Animated_Landing-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+**Interactive Radial Widget**
+
 **Stack:** React • GSAP • CSS3  
 ➡️ [Demo](https://circle-spinning.vercel.app)  
 ➡️ [Repository](https://github.com/nikitaChandler01/circle-spinning)
